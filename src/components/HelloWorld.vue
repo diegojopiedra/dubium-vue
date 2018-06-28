@@ -11,6 +11,11 @@
             </small>
           </footer>
         </blockquote>
+
+        <!-- <div>
+    			<h1>{{ 'My nice title' | translate }}</h1>
+    			<p>{{ $t('content', {'type': 'nice'}) }}</p>
+    		</div> -->
       </v-layout>
     </v-slide-y-transition>
   </v-container>

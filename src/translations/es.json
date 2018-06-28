@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "home": "Inicio",
+    "jobs": "Trabajos",
+    "authors": "Autores",
+    "statistics": "Estadísticas",
+    "dashboard": "Administración"
+  },
+  "footer": {
+    "main": "Thesis metric es un proyecto de software libre"
+  }
+}

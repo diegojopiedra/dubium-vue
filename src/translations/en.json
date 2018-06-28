@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "home": "Home",
+    "jobs": "Jobs",
+    "authors": "Authors",
+    "statistics": "Statistics",
+    "dashboard": "Dashboard"
+  },
+  "footer": {
+    "main": "Thesis metric it is a free software project"
+  }
+}
